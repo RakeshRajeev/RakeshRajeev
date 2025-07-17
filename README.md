@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RakeshRajeev
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Technology
 - 📫 How to reach me phone no :9108929606
 
 <!---
